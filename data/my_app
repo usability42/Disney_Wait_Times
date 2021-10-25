@@ -1,0 +1,5 @@
+import streamlit as st
+import pickle
+st.title("What's Your Wild?")
+
+with open('data/my_model.pkl, 'rb')
